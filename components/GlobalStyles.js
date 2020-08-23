@@ -9,7 +9,14 @@ const GlobalStyles = ({ children }) => {
 			<style global jsx>{`
 
 				:root {
-					--primary: #000000
+					--primary: #F15000;
+					--background: #080A0E;
+					--white: #f2f2f2;
+				}
+
+				body {
+					background-color: var(--background);
+					color: var(--white)
 				}
 			
 			`}</style>
