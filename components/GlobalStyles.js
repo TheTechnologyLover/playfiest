@@ -4,6 +4,7 @@ import PropTypes from "prop-types";
 const GlobalStyles = ({ children }) => {
 	return(
 		<>
+			
 			{ children }
 
 			<style global jsx>{`
@@ -16,7 +17,8 @@ const GlobalStyles = ({ children }) => {
 
 				body {
 					background-color: var(--background);
-					color: var(--white)
+					color: var(--white);
+					cursor: none;
 				}
 			
 			`}</style>
