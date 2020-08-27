@@ -8,9 +8,14 @@
     "start": "next start"
   },
   "dependencies": {
+    "@animated-burgers/burger-squeeze": "^1.1.2",
+    "@zeit/next-css": "^1.0.1",
+    "moment-timezone": "^0.5.31",
     "next": "9.5.2",
     "react": "16.13.1",
     "react-dom": "16.13.1",
+    "react-moment": "^0.9.7",
+    "styled-components": "^5.1.1",
     "wpapi": "^1.2.1"
   },
   "devDependencies": {

@@ -1,0 +1,13 @@
+{
+    "background_color": "#080A0E",
+    "description": "Example of a progressive web app",
+    "icons": [{
+        "src": "icon.png",
+        "sizes": "512x512",
+        "type": "image/png"
+    }],
+    "name": "PlayFiest",
+    "short_name": "PlayFiest",
+    "start_url": "index.html",
+    "theme_color": "#080A0E"
+  }
