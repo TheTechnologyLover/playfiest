@@ -15,10 +15,13 @@
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-moment": "^0.9.7",
+    "react-owl-carousel": "^2.3.1",
     "styled-components": "^5.1.1",
+    "webpack": "^4.44.1",
     "wpapi": "^1.2.1"
   },
   "devDependencies": {
+    "babel-plugin-transform-class-properties": "^6.24.1",
     "eslint": "^7.7.0",
     "eslint-plugin-react": "^7.20.6"
   }

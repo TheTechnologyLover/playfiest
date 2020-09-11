@@ -84,7 +84,7 @@ class Grid extends Component {
 
 
 Grid.propTypes = {
-	children: PropTypes.node.isRequired,
+	children: PropTypes.node,
 	item: PropTypes.bool,
 	xs: PropTypes.number,
 	lg: PropTypes.number,
